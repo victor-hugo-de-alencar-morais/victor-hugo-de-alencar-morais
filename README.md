@@ -1,6 +1,10 @@
 ## Hi! i'm Victor Hugo 
-![GitHub Stats](https://raw.githubusercontent.com/victor-hugo-de-alencar-morais/victor-hugo-de-alencar-morais/main/.github/stats/stats.svg)
-![Top Langs](https://raw.githubusercontent.com/victor-hugo-de-alencar-morais/victor-hugo-de-alencar-morais/main/.github/stats/langs.svg)
+ <div>
+  <a href="https://github.com/victor-hugo-de-alencar-morais">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victor-hugo-de-alencar-morais&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-hugo-de-alencar-morais&layout=compact&langs_count=16&theme=dark"/>
+</div>
+
 
 <div style="display: inline_block"><br>
   <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
